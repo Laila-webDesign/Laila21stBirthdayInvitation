@@ -1,0 +1,94 @@
+.container {
+    background-color: #ffcce5;
+    width:786px;
+    height:884px;
+    margin:auto;
+    position:relative;
+    top:70px;
+    
+  
+}
+
+.youreinvited{
+    position:absolute;
+    top:90px;
+    left:87px;
+    background-color:#ffcce5;
+    margin:auto;
+    font-family:cursive;
+    font-size: 33px;
+   
+    
+}
+
+
+.frontpic {
+    position:absolute;
+    left:243px;
+    top:189px;
+    
+}
+
+.birthday {
+    position:absolute;
+    left:460px;
+    top:505px;
+    font-family: cursive;
+    font-size: 33px;
+}
+
+.join {
+    position:absolute;
+    left:227px;
+    top:635px;
+    font-family:monospace;
+    font-weight:bold;
+    text-align:center;
+}
+
+.info {
+    position:absolute;
+    left:219px;
+    top:682px;
+    text-align:center;
+    font-family:monospace;
+    font-size:14px;
+}
+
+#rsvp{
+    color:#b823cb;
+}
+
+
+#bowright {
+    position:absolute;
+    left:583px;
+}
+
+#bowleft {
+    position:absolute;
+}
+
+#bottomright {
+    position:absolute;
+    top:682px;
+    left:577px;
+}
+
+#bottomleft {
+    position:absolute;
+    top:687px;
+    right:589px;
+}
+
+#stars {
+    position:absolute;
+    top:98px;
+    left:150px;
+}
+
+#stars2 {
+    position:absolute;
+    top:369px;
+    left:430px;
+}
