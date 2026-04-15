@@ -18,18 +18,18 @@
     padding-top:27px;
     padding-bottom:10px;
     position:absolute;
-    top:269px;
-    left:147px;
+    top:232px;
+    left:143px;
     text-align:center;
     font-family:monospace;
-    border:solid 3px #85cb88;
+    border:groove 4px rgb(188, 41, 103);
     line-height: 20px;
-    font-size:14px;
+    font-size:16px;
     
 }
 
 .celebratingwithus {
-    color:#0d6f55;
+    color:rgb(149, 35, 83);
     font-weight:bold;
     font-size:23px;
     font-family: cursive
@@ -37,10 +37,11 @@
 }
 
 .addtocalander {
-    background-color: antiquewhite;
+    background-color: #f2efc3;
     padding:6px;
     font-family:serif;
-    border:solid;
+    border:solid 3px;
+    font-size:19px;
 }
 
 .meandpapi2013 {

@@ -16,7 +16,7 @@
     background-color:#ffcce5;
     margin:auto;
     font-family:cursive;
-    font-size: 33px;
+    font-size: 34px;
    
     
 }
@@ -39,20 +39,21 @@
 
 .join {
     position:absolute;
-    left:227px;
-    top:635px;
+    left:186px;
+    top:620px;
     font-family:monospace;
     font-weight:bold;
     text-align:center;
+    font-size:16px;
 }
 
 .info {
     position:absolute;
-    left:219px;
+    left:184px;
     top:682px;
     text-align:center;
     font-family:monospace;
-    font-size:14px;
+    font-size:15px;
 }
 
 #rsvp{
